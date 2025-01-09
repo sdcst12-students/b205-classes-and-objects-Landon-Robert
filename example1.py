@@ -4,7 +4,7 @@
 import math
 
 class circle:
-    radius = 0
+    radius = 1
     diameter = 0
     
     def calcDiameterToRadius(self):
