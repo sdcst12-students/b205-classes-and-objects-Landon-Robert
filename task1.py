@@ -7,12 +7,16 @@ Instantiate 3 separate rectangular prisms with the test data given, and check th
 
 class rectPrism:
 
+    l = 0
+    w = 0
+    h = 0
+
     def __init__(self):
         # note you will need to specify more input parameters
         pass
 
     def volume(self):
-        return
+        self.l  
     
     def surfaceArea(self):
         return
